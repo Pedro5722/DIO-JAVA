@@ -1,0 +1,6 @@
+rootProject.name = 'DIo'
+include 'DateFormat]'
+include 'DateFormat Exercicio'
+include 'LocalTime Exercicio'
+include 'Exercicio Collections'
+
